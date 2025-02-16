@@ -11,7 +11,7 @@ const App = () => {
   const [showMenu, setShowMenu] = useState(true);
 
   const lectures = [
-    { title: 'Future Aesthetics', path: '/lectures/ET/week1.md' },
+    { title: 'Future Aesthetics', path: './lectures/ET/week1.md' },
     // Add more lectures here
   ];
 
