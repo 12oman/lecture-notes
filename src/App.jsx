@@ -9,16 +9,27 @@ const App = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
   const [slides, setSlides] = useState([]);
   const [showMenu, setShowMenu] = useState(true);
+  const [error, setError] = useState(null);
 
+  // Get the base URL for GitHub Pages
+  const baseUrl = import.meta.env.MODE === 'production' ? '/lecture-notes' : '';
+  
   const lectures = [
-    { title: 'Future Aesthetics', path: './lectures/ET/week1.md' },
-    // Add more lectures here
+    { 
+      title: 'Future Aesthetics', 
+      path: `${baseUrl}/lectures/ET/week1.md`
+    }
   ];
 
   const loadLecture = async (path) => {
     try {
+      setError(null);
+      console.log('Attempting to fetch:', path);
+      
       const response = await fetch(path);
-      if (!response.ok) throw new Error('Failed to fetch lecture');
+      if (!response.ok) {
+        throw new Error(`Failed to fetch lecture: ${response.status} ${response.statusText}`);
+      }
       const markdown = await response.text();
       
       const contentSections = markdown.split('---');
@@ -28,6 +39,8 @@ const App = () => {
       setShowMenu(false);
     } catch (error) {
       console.error('Error loading lecture:', error);
+      setError(error.message);
+      setShowMenu(true);
     }
   };
 
@@ -61,6 +74,7 @@ const App = () => {
                 {lecture.title}
               </button>
             ))}
+            {error && <div className="error-message">{error}</div>}
           </div>
         </div>
       ) : content ? (

@@ -4,13 +4,13 @@ date: 2024-02-17
 course: Emerging & Future Design Technologies
 ---
 
-# Breaking from Corporate Memphis
+# breaking from corporate memphis
 
 Why are we watching Sci-Fi? Science Fiction has often been the first mover in creating the imaginary space for real inventions - think iPad in Star Trek.
 
 ---
 
-# Today's Reference Points
+# today's reference points
 
 * Gentle Monster stores as experimental laboratories
 * SOPHIE's "Faceshopping" - materiality and digital identity
@@ -20,12 +20,13 @@ Why are we watching Sci-Fi? Science Fiction has often been the first mover in cr
 ---
 
 #Gentle Monster
-![Gentle Monster](https://www.gentlemonster.com)
 ![Gentle Monster](https://web-resource.gentlemonster.com/event/1716253628.jpg)
 
-
-
 ---
+
+# SOPHIE's "Faceshopping"
+![SOPHIE](https://youtu.be/es9-P1SOeHU?si=ue0NV2mF_VKVK0oP)
+### warning: flickering light and rapid cuts
 
 # Key Themes
 
