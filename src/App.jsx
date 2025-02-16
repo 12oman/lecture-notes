@@ -1,8 +1,8 @@
-// src/App.jsx
 import React, { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
+import futureAestheticsLecture from '/lectures/ET/week1.md?raw'
 
 const App = () => {
   const [content, setContent] = useState(null);
@@ -11,32 +11,18 @@ const App = () => {
   const [showMenu, setShowMenu] = useState(true);
   const [error, setError] = useState(null);
 
-  // Get the base URL for GitHub Pages
-  // const baseUrl = import.meta.env.MODE === 'production' ? '/lecture-notes' : '';
-  const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, ''); // Remove trailing slash if present
- 
-  
   const lectures = [
     { 
       title: 'Future Aesthetics', 
-      path: `${baseUrl}/lectures/ET/week1.md`
+      content: futureAestheticsLecture
     }
   ];
 
-  const loadLecture = async (path) => {
+  const loadLecture = (lecture) => {
     try {
-      setError(null);
-      console.log('Attempting to fetch:', path);
-      
-      const response = await fetch(path);
-      if (!response.ok) {
-        throw new Error(`Failed to fetch lecture: ${response.status} ${response.statusText}`);
-      }
-      const markdown = await response.text();
-      
-      const contentSections = markdown.split('---');
+      const contentSections = lecture.content.split('---');
       setSlides(contentSections.map(slide => slide.trim()));
-      setContent(markdown);
+      setContent(lecture.content);
       setCurrentSlide(0);
       setShowMenu(false);
     } catch (error) {
@@ -70,7 +56,7 @@ const App = () => {
             {lectures.map((lecture, index) => (
               <button 
                 key={index}
-                onClick={() => loadLecture(lecture.path)}
+                onClick={() => loadLecture(lecture)}
                 className="menu-button"
               >
                 {lecture.title}
