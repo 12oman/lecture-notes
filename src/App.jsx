@@ -12,7 +12,9 @@ const App = () => {
   const [error, setError] = useState(null);
 
   // Get the base URL for GitHub Pages
-  const baseUrl = import.meta.env.MODE === 'production' ? '/lecture-notes' : '';
+  // const baseUrl = import.meta.env.MODE === 'production' ? '/lecture-notes' : '';
+  const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, ''); // Remove trailing slash if present
+ 
   
   const lectures = [
     { 
