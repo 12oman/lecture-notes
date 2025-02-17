@@ -1,6 +1,6 @@
 ---
 title: future aesthetics & emerging technologies
-date: 2024-02-17
+date: 02-17-2024
 course: emerging & future design technologies
 ---
 
@@ -67,7 +67,7 @@ note: these questions emerged from our class discussion last year, pushing the b
 
 # next week
 
-**futures archaeology assignment**
+**futures archaeology mini assignment**
 
 bring in an example of design that feels like it's from the future. this could be:
 * a tiktok filter that reimagines human form

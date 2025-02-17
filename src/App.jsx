@@ -3,6 +3,7 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
 import futureAestheticsLecture from '/lectures/ET/week1.md?raw'
+import futureArchitectureLecture from '/lectures/ET/week2.md?raw'
 
 const App = () => {
   const [content, setContent] = useState(null);
@@ -13,9 +14,14 @@ const App = () => {
 
   const lectures = [
     { 
-      title: 'Future Aesthetics', 
+      title: 'future aesthetics', 
       content: futureAestheticsLecture
+    },
+    {
+      title: 'future architecture',
+      content: futureArchitectureLecture
     }
+
   ];
 
   const loadLecture = (lecture) => {
