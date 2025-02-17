@@ -1,6 +1,6 @@
 ---
 title: future aesthetics & emerging technologies
-date: 02-17-2024
+date: 17-02-2024
 course: emerging & future design technologies
 ---
 
