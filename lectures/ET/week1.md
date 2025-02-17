@@ -1,6 +1,6 @@
 ---
 title: future aesthetics & emerging technologies
-date: 2024-02-17
+date: 02-17-2024
 course: emerging & future design technologies
 ---
 
@@ -31,7 +31,7 @@ retail spaces transformed into dynamic art installations that challenge traditio
 ---
 
 # SOPHIE's "faceshopping"
-![SOPHIE](https://youtu.be/es9-P1SOeHU?si=ue0NV2mF_VKVK0oP)
+[SOPHIE](https://youtu.be/es9-P1SOeHU?si=ue0NV2mF_VKVK0oP)
 ### warning: flickering light and rapid cuts
 
 a critical exploration of digital identity, technological mutation, and the plasticity of self. connects to posthuman theories of identity and technological mediation.
@@ -67,7 +67,7 @@ note: these questions emerged from our class discussion last year, pushing the b
 
 # next week
 
-**futures archaeology assignment**
+**futures archaeology mini assignment**
 
 bring in an example of design that feels like it's from the future. this could be:
 * a tiktok filter that reimagines human form
