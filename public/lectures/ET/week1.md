@@ -31,7 +31,7 @@ retail spaces transformed into dynamic art installations that challenge traditio
 ---
 
 # SOPHIE's "faceshopping"
-![SOPHIE](https://youtu.be/es9-P1SOeHU?si=ue0NV2mF_VKVK0oP)
+[SOPHIE](https://youtu.be/es9-P1SOeHU?si=ue0NV2mF_VKVK0oP)
 ### warning: flickering light and rapid cuts
 
 a critical exploration of digital identity, technological mutation, and the plasticity of self. connects to posthuman theories of identity and technological mediation.
