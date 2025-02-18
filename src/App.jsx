@@ -4,7 +4,7 @@ import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
 import futureAestheticsLecture from '/lectures/ET/week1.md?raw'
 import futureArchitectureLecture from '/lectures/ET/week2.md?raw'
-
+import interactionDesignLecture from '/lectures/ID/week1.md?raw'
 const App = () => {
   const [content, setContent] = useState(null);
   const [currentSlide, setCurrentSlide] = useState(0);
@@ -20,6 +20,11 @@ const App = () => {
     {
       title: 'future architecture',
       content: futureArchitectureLecture
+    }
+    ,
+    {
+      title: 'interaction design',
+      content: interactionDesignLecture
     }
 
   ];
