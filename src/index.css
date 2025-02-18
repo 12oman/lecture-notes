@@ -32,6 +32,11 @@ body {
   line-height: 1.2;
 }
 
+button {
+  font-family: var(--font-main);
+  border-radius: 0;
+}
+
 .nav-buttons {
   position: fixed;
   bottom: 2rem;
