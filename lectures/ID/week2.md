@@ -24,7 +24,7 @@ previous: [week 1 - how to ace this course](/lectures/ID/week1)
 *rethinking the browser*
 
 * Laurel Schwulst
-  * [Flight Simulator](https://flightsimulator.org/)
+  * [everything](https://laurelschwulst.com/e/)
   * poetic web interactions
   * experimental interfaces
 
@@ -44,9 +44,10 @@ previous: [week 1 - how to ace this course](/lectures/ID/week1)
   * mathematical beauty
 
 * Dmitri Cherniak
-  * [Ringers series](https://art-blocks.io/collections/ringers)
+  * [Ringers series](https://deadringers.dmitricherniak.com/)
   * algorithmic minimalism
   * on-chain art pioneer
+![image](https://d2w9rnfcy7mm78.cloudfront.net/34643451/original_348d755b803f91b2daaa906cb04ba22b.png?1739922093?bc=0)
 
 ```javascript
 // example of a simple flow field
@@ -90,12 +91,18 @@ function createFlowField() {
 * Kim Asendorf
   * pixel sorting pioneer
   * glitch aesthetics
-  * [ASCIImation](http://kimasendorf.com/www/)
+  * [ASCIImation](http://kimasendorf.com/)
+![kim assendorf](https://d2w9rnfcy7mm78.cloudfront.net/34644191/original_338eaeaa3851d010b7961d78f29b1e14.png?1739924148?bc=0)
 
 * ertdfgcvb
   * ASCII art mastery
   * terminal aesthetics
   * [https://ertdfgcvb.xyz/](https://ertdfgcvb.xyz/)
+
+* 404 zero
+  * generative typography
+  * text-based art
+  * [https://404zero.com/](https://www.404zero.com/)
 
 ```javascript
 // basic ASCII conversion
