@@ -2,7 +2,7 @@
 title: digital art pioneers & practices
 date: 2024-02-26
 subtitle: exploring the landscape of creative code
-previous: [week 1 - how to ace this course](/lectures/ID/week1)
+previous: week 1 - how to ace this course
 ---
 
 # pioneering code artists
