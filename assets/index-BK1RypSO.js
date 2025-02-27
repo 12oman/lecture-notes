@@ -622,9 +622,9 @@ Paul Nero	1968	Drums
 
 Notice how Intergalactic itself has been re-used in other peoples music (77 exapmmles)
 
-this characteristic is a key part of postmodernism. 
-music is a map of other music. 
-design is a map of other design.
+* this characteristic is a key part of postmodernism. 
+* music is a map of other music. 
+* design is a map of other design.
 
 ---
 ### 4. discussion (15min)
@@ -644,7 +644,7 @@ check out scaleofuniverse.com to explore relative scales from quantum to cosmic
 * grab everyday objects/systems (toasters, bikes, whatever)
 * create speculative designs by:
   - putting them in weird contexts (space, underwater, inside the body)
-  - scaling them way up or down
+  - scaling them way up or down (using any design approach: design software, drawing, photography)
   - mashing their logic with other systems
 * share your found logic with everyone
 
@@ -687,6 +687,8 @@ create a speculative design concept for a type II civilization artifact - someth
 
 document your concept with sketches, diagrams, or whatever, and prepare a 5-min presentation for next week.
 
+---
+
 ## more stuff to check out
 
 * **readings**: 
@@ -697,4 +699,6 @@ document your concept with sketches, diagrams, or whatever, and prepare a 5-min 
 * **visual references**:
   - orbital megastructures in sci-fi
   - nasa concept art for space habitats
-  - speculative engineering diagrams`,pC=()=>{const[e,n]=Vu.useState(null),[a,l]=Vu.useState(0),[c,f]=Vu.useState([]),[o,m]=Vu.useState(!0),[E,p]=Vu.useState(null),b=[{title:"future aesthetics et week 1",content:oC},{title:"future architecture et week 2",content:fC},{title:"interaction design ii week 1",content:hC},{title:"interaction design ii week 2",content:dC},{title:"future scale et week 3",content:mC}],T=C=>{try{const _=C.content.split("---");f(_.map(R=>R.trim())),n(C.content),l(0),m(!1)}catch(_){console.error("Error loading lecture:",_),p(_.message),m(!0)}};return Vu.useEffect(()=>{const C=_=>{_.key==="ArrowRight"?l(R=>Math.min(R+1,c.length-1)):_.key==="ArrowLeft"?l(R=>Math.max(R-1,0)):_.key==="Escape"&&m(R=>!R)};return window.addEventListener("keydown",C),()=>window.removeEventListener("keydown",C)},[c.length]),Qe.jsx("div",{className:"app",children:o?Qe.jsx("div",{className:"menu",children:Qe.jsxs("div",{className:"menu-content",children:[Qe.jsx("h1",{children:"Lectures"}),b.map((C,_)=>Qe.jsx("button",{onClick:()=>T(C),className:"menu-button",children:C.title},_)),E&&Qe.jsx("div",{className:"error-message",children:E})]})}):e?Qe.jsxs(Qe.Fragment,{children:[Qe.jsxs("header",{children:[Qe.jsx("button",{className:"menu-toggle",onClick:()=>m(!0),children:"Menu (esc)"}),Qe.jsx("div",{className:"progress",children:Qe.jsx("div",{className:"progress-bar",style:{width:`${(a+1)/c.length*100}%`}})})]}),Qe.jsx("main",{children:Qe.jsx("div",{className:"content",children:Qe.jsx(z3,{remarkPlugins:[W_],rehypePlugins:[cC],components:{img:({node:C,..._})=>Qe.jsx("img",{style:{maxWidth:"100%",height:"auto"},..._,alt:_.alt||""}),a:({node:C,..._})=>Qe.jsx("a",{target:"_blank",rel:"noopener noreferrer",..._})},children:c[a]||""})})}),Qe.jsxs("div",{className:"nav-buttons",children:[Qe.jsx("button",{onClick:()=>l(C=>Math.max(C-1,0)),className:"nav-button",children:"←"}),Qe.jsx("button",{onClick:()=>l(C=>Math.min(C+1,c.length-1)),className:"nav-button",children:"→"})]}),Qe.jsxs("div",{className:"slide-counter",children:[a+1," / ",c.length]})]}):Qe.jsx("div",{className:"empty-state",children:"Select a lecture to begin"})})};IT.createRoot(document.getElementById("root")).render(Qe.jsx(Vu.StrictMode,{children:Qe.jsx(pC,{})}));
+  - speculative engineering diagrams
+
+---`,pC=()=>{const[e,n]=Vu.useState(null),[a,l]=Vu.useState(0),[c,f]=Vu.useState([]),[o,m]=Vu.useState(!0),[E,p]=Vu.useState(null),b=[{title:"future aesthetics et week 1",content:oC},{title:"future architecture et week 2",content:fC},{title:"interaction design ii week 1",content:hC},{title:"interaction design ii week 2",content:dC},{title:"future scale et week 3",content:mC}],T=C=>{try{const _=C.content.split("---");f(_.map(R=>R.trim())),n(C.content),l(0),m(!1)}catch(_){console.error("Error loading lecture:",_),p(_.message),m(!0)}};return Vu.useEffect(()=>{const C=_=>{_.key==="ArrowRight"?l(R=>Math.min(R+1,c.length-1)):_.key==="ArrowLeft"?l(R=>Math.max(R-1,0)):_.key==="Escape"&&m(R=>!R)};return window.addEventListener("keydown",C),()=>window.removeEventListener("keydown",C)},[c.length]),Qe.jsx("div",{className:"app",children:o?Qe.jsx("div",{className:"menu",children:Qe.jsxs("div",{className:"menu-content",children:[Qe.jsx("h1",{children:"Lectures"}),b.map((C,_)=>Qe.jsx("button",{onClick:()=>T(C),className:"menu-button",children:C.title},_)),E&&Qe.jsx("div",{className:"error-message",children:E})]})}):e?Qe.jsxs(Qe.Fragment,{children:[Qe.jsxs("header",{children:[Qe.jsx("button",{className:"menu-toggle",onClick:()=>m(!0),children:"Menu (esc)"}),Qe.jsx("div",{className:"progress",children:Qe.jsx("div",{className:"progress-bar",style:{width:`${(a+1)/c.length*100}%`}})})]}),Qe.jsx("main",{children:Qe.jsx("div",{className:"content",children:Qe.jsx(z3,{remarkPlugins:[W_],rehypePlugins:[cC],components:{img:({node:C,..._})=>Qe.jsx("img",{style:{maxWidth:"100%",height:"auto"},..._,alt:_.alt||""}),a:({node:C,..._})=>Qe.jsx("a",{target:"_blank",rel:"noopener noreferrer",..._})},children:c[a]||""})})}),Qe.jsxs("div",{className:"nav-buttons",children:[Qe.jsx("button",{onClick:()=>l(C=>Math.max(C-1,0)),className:"nav-button",children:"←"}),Qe.jsx("button",{onClick:()=>l(C=>Math.min(C+1,c.length-1)),className:"nav-button",children:"→"})]}),Qe.jsxs("div",{className:"slide-counter",children:[a+1," / ",c.length]})]}):Qe.jsx("div",{className:"empty-state",children:"Select a lecture to begin"})})};IT.createRoot(document.getElementById("root")).render(Qe.jsx(Vu.StrictMode,{children:Qe.jsx(pC,{})}));

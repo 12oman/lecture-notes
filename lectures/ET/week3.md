@@ -124,9 +124,9 @@ Paul Nero	1968	Drums
 
 Notice how Intergalactic itself has been re-used in other peoples music (77 exapmmles)
 
-this characteristic is a key part of postmodernism. 
-music is a map of other music. 
-design is a map of other design.
+* this characteristic is a key part of postmodernism. 
+* music is a map of other music. 
+* design is a map of other design.
 
 ---
 ### 4. discussion (15min)
@@ -146,7 +146,7 @@ check out scaleofuniverse.com to explore relative scales from quantum to cosmic
 * grab everyday objects/systems (toasters, bikes, whatever)
 * create speculative designs by:
   - putting them in weird contexts (space, underwater, inside the body)
-  - scaling them way up or down
+  - scaling them way up or down (using any design approach: design software, drawing, photography)
   - mashing their logic with other systems
 * share your found logic with everyone
 
@@ -189,6 +189,8 @@ create a speculative design concept for a type II civilization artifact - someth
 
 document your concept with sketches, diagrams, or whatever, and prepare a 5-min presentation for next week.
 
+---
+
 ## more stuff to check out
 
 * **readings**: 
@@ -200,3 +202,5 @@ document your concept with sketches, diagrams, or whatever, and prepare a 5-min 
   - orbital megastructures in sci-fi
   - nasa concept art for space habitats
   - speculative engineering diagrams
+
+---
