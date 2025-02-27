@@ -85,7 +85,7 @@ check out scaleofuniverse.com to explore relative scales from quantum to cosmic
   - where people would live
   - cultural vibes of such a structure
   - how it would look
-* remember the principle: "wrap it up in tin foil, put it on a starry background, set it to a theremin sound"
+* remember the sci-fi principle: "wrap it up in tin foil, put it on a starry background, set it to a theremin sound"
 
 ## discussion questions
 
