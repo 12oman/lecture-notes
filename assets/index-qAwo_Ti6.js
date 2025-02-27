@@ -497,49 +497,67 @@ remember: [last week's tips](/lectures/ID/week1) on documentation!
 * [Generator.x](https://generatorx.no)
 
 next week: building your own generative system`,mC=`---
-title: dyson spheres & found logics in speculative futures  
+title: dyson spheres & found logics 
 date: 2024-03-02  
 course: emerging & future design technologies  
 ---
 
-# recap (prior weeks)
+### recap (1-2)
+---
+week 1: future aesthetics
+we explored how science fiction creates imaginative spaces for real technological innovations, establishing perceptual frameworks for possibility. 
 
-## week 1: future aesthetics
-we explored how science fiction creates imaginative spaces for real technological innovations, establishing perceptual frameworks for possibility. key examples included:
-
+examples:
 * **gentle monster** stores as art
 * **sophie's "faceshopping"** exploring digital identity
 * **donna haraway's cyborg manifesto** as theoretical underpinning
 * **breaking from corporate memphis** through alternative aesthetic systems
----
-
-### week 1 questions
 how do 
 * commercial spaces, 
 * media, 
-* design 
+* design,
 challenge our understanding of identity and technological mediation?
 
 ---
-## week 2: mapping the territory
-we moved from maps to territories, examining:
+week 2: getting to the territory
+we moved from imaginiative spaces to maps and territories, examining:
 
-* **enzo mari's work** - the relationship between technical drawings (maps) and physical artifacts
+* **enzo mari's work** - the relationship between his technical drawings (maps) and his physical artifacts
 * **conway's game of life** as a simple rule system generating complex emergent behaviors
 
 ---
+takeaways
+anything can work as a map of anything else. 
+the territory is the space of interaction between rules that you decide upon and worlded outcomes. 
 
-# today: dyson spheres & found logics in speculative futures
-
-## key concepts
-
-### found logics & scale
-> "at what scale does newness occur? maybe our scale is currently shifting because we are moving from a society that produces for a market that has been (unfortunately) theorised to consist of consumers, to a society that produces for a market of creative producers."
+---
+cheat code
+in what ways are you always carrying a map?
+* your phone
+* your body
+* culture
+* mind
 
 ---
 
-* how sci-fi and gaming use **found logics** - taking existing systems and recontextualizing them
-* why **scale shifts** matter when imagining crazy new tech futures
+### today: intergalactic, planetary, planetary, intergalactic
+
+key concepts
+found logics 
+scale
+when we talk about how anything can be a map of something else, we are invoking a design principle of found logics and the condition of postmodernism.
+
+this might make you quesion: can anything can be new?
+
+---
+
+> "at what scale does newness occur? maybe our scale is currently shifting because we are moving from a society that produces for a market [...] of consumers, to a society that produces for a market of creative producers."
+
+---
+
+* how sci-fi and gaming use found logics 
+* taking existing systems and recontextualizing them
+* why **scale shifts** matter when imagining new tech futures
 
 ### the kardashev scale: framework for imagination
 * **type I** (planetary) - using all the energy of a planet 
@@ -556,15 +574,31 @@ we moved from maps to territories, examining:
 
 ---
 
-## class activities
+### activities
 
-### 1. scale exploration (20 min)
+---
+
+### 1. pre-class reading (15 mins)
+read "Intergalactic, Planetary, Planetary, Intergalactic : Found Logics in Sci-Fi and Games" by Roman Mitch
+
+---
+### 2. watch (Beastie Boys Intergalactic) (4:34s)
+
+[intergalactic](https://youtu.be/qORYO0atB6g?si=PR0Cmz8PDdUT7uwc)
+
+---
+### 3. discussion (15min)
+examples
+* how is scale used to open up newness?
+* what kind of 'postmodernism' is at play?
+
+---
+### 3. scale exploration (20 min)
 check out scaleofuniverse.com to explore relative scales from quantum to cosmic
 * chat about: how does shifting perspective change how we see objects and systems?
 * connects to bianca hester's work: "only from the perspective of an observer situated upon the surface of the earth does day and night occur"
 
 ---
-
 ### 2. found logic workshop (30 min)
 * break into small groups
 * grab everyday objects/systems (toasters, bikes, whatever)
@@ -575,7 +609,6 @@ check out scaleofuniverse.com to explore relative scales from quantum to cosmic
 * share your found logic with everyone
 
 ---
-
 ### 3. dyson sphere design challenge (40 min)
 * groups design their own megastructure concept
 * think about:
@@ -583,7 +616,9 @@ check out scaleofuniverse.com to explore relative scales from quantum to cosmic
   - where people would live
   - cultural vibes of such a structure
   - how it would look
-* remember the principle: "wrap it up in tin foil, put it on a starry background, set it to a theremin sound"
+* remember the sci-fi principle: "wrap it up in tin foil, put it on a starry background, set it to a theremin sound"
+
+---
 
 ## discussion questions
 
@@ -597,7 +632,7 @@ check out scaleofuniverse.com to explore relative scales from quantum to cosmic
 
 5. think about the quote: "we are always looking for counter-logics" - how can designers and technologists create truly new systems rather than just iterations of existing ones?
 
-## homework
+## homework (for week 4)
 
 create a speculative design concept for a type II civilization artifact - something that would only be possible for a society that had harnessed the complete energy of its star. consider:
 
