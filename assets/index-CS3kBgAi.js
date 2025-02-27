@@ -497,6 +497,12 @@ remember: [last week's tips](/lectures/ID/week1) on documentation!
 * [Generator.x](https://generatorx.no)
 
 next week: building your own generative system`,mC=`---
+title: future scales—intergalactic, planetary, planetary, intergalactic
+date: 2024-03-02  
+course: emerging & future design technologies  
+---
+
+---
 title: dyson spheres & found logics 
 date: 2024-03-02  
 course: emerging & future design technologies  
@@ -526,9 +532,10 @@ we moved from imaginiative spaces to maps and territories, examining:
 * **conway's game of life** as a simple rule system generating complex emergent behaviors
 
 ---
-takeaways
-anything can work as a map of anything else. 
-the territory is the space of interaction between rules that you decide upon and worlded outcomes. 
+# takeaways
+* anything can work as a map of anything else. 
+* the territory is the space of interaction between rules that you decide upon 
+* and worlded outcomes. 
 
 ---
 cheat code
@@ -588,12 +595,20 @@ read "Intergalactic, Planetary, Planetary, Intergalactic : Found Logics in Sci-F
 [intergalactic](https://youtu.be/qORYO0atB6g?si=PR0Cmz8PDdUT7uwc)
 
 ---
+### 4. discussion (15min)
+examples
+* how is scale used to open up newness?
+* what kind of 'postmodernism' is at play?
+---
+
 ### 3. visit the Intergalatic track on WhoSampled (10 min)
 explore the 'intertextuality' of the song - how it samples and remixes other tracks
 
 ![whoeSampled](https://d2w9rnfcy7mm78.cloudfront.net/34874596/original_3409582c6b49fe28341fb63b41df9afe.png?1740695894?bc=0)
 
 [link](https://www.whosampled.com/Beastie-Boys/Intergalactic/)
+
+
 
 ---
 
@@ -622,15 +637,9 @@ Paul Nero	1968	Drums
 
 Notice how Intergalactic itself has been re-used in other peoples music (77 exapmmles)
 
-* this characteristic is a key part of postmodernism. 
-* music is a map of other music. 
-* design is a map of other design.
-
----
-### 4. discussion (15min)
-examples
-* how is scale used to open up newness?
-* what kind of 'postmodernism' is at play?
+this characteristic is a key part of postmodernism. 
+music is a map of other music. 
+design is a map of other design.
 
 ---
 ### 5. scale exploration (20 min)
@@ -644,7 +653,7 @@ check out scaleofuniverse.com to explore relative scales from quantum to cosmic
 * grab everyday objects/systems (toasters, bikes, whatever)
 * create speculative designs by:
   - putting them in weird contexts (space, underwater, inside the body)
-  - scaling them way up or down (using any design approach: design software, drawing, photography)
+  - scaling them way up or down
   - mashing their logic with other systems
 * share your found logic with everyone
 
@@ -662,11 +671,26 @@ check out scaleofuniverse.com to explore relative scales from quantum to cosmic
 
 ## discussion questions
 
-1. "how can we get from hand logics to claw logics?" - what does this question from the essay suggest about specialization vs generalization in tech development?
-2. how do frameworks like the kardashev scale help us imagine stuff beyond our current tech horizon?
+1. "how can we get from hand logics to claw logics?" - what does this question from the essay suggest about specialization vs generalization?
+2. how do frameworks like the kardashev scale help us imagine beyond our current horizon?
 3. how might a "planetary society" be different from our current one in terms of design practices and aesthetic values?
 4. what's the relationship between "art-school postmodernism" and technological innovation?
 5. think about the quote: "we are always looking for counter-logics" - how can designers and technologists create truly new systems rather than just iterations of existing ones?
+
+
+---
+
+## more to check out
+
+* **readings**: 
+  - "more is different" by philip warren anderson
+  - excerpts from larry niven's "ringworld"
+  - iain m. banks' "culture" novels
+
+* **visual references**:
+  - orbital megastructures in sci-fi
+  - nasa concept art for space habitats
+  - speculative engineering diagrams
 
 ---
 
@@ -685,20 +709,4 @@ create a speculative design concept for a type II civilization artifact - someth
 * what aesthetic qualities would reflect its purpose and context?
 * how might it change social/cultural relationships?
 
-document your concept with sketches, diagrams, or whatever, and prepare a 5-min presentation for next week.
-
----
-
-## more stuff to check out
-
-* **readings**: 
-  - "more is different" by philip warren anderson
-  - excerpts from larry niven's "ringworld"
-  - iain m. banks' "culture" novels
-
-* **visual references**:
-  - orbital megastructures in sci-fi
-  - nasa concept art for space habitats
-  - speculative engineering diagrams
-
----`,pC=()=>{const[e,n]=Vu.useState(null),[a,l]=Vu.useState(0),[c,f]=Vu.useState([]),[o,m]=Vu.useState(!0),[E,p]=Vu.useState(null),b=[{title:"future aesthetics et week 1",content:oC},{title:"future architecture et week 2",content:fC},{title:"interaction design ii week 1",content:hC},{title:"interaction design ii week 2",content:dC},{title:"future scale et week 3",content:mC}],T=C=>{try{const _=C.content.split("---");f(_.map(R=>R.trim())),n(C.content),l(0),m(!1)}catch(_){console.error("Error loading lecture:",_),p(_.message),m(!0)}};return Vu.useEffect(()=>{const C=_=>{_.key==="ArrowRight"?l(R=>Math.min(R+1,c.length-1)):_.key==="ArrowLeft"?l(R=>Math.max(R-1,0)):_.key==="Escape"&&m(R=>!R)};return window.addEventListener("keydown",C),()=>window.removeEventListener("keydown",C)},[c.length]),Qe.jsx("div",{className:"app",children:o?Qe.jsx("div",{className:"menu",children:Qe.jsxs("div",{className:"menu-content",children:[Qe.jsx("h1",{children:"Lectures"}),b.map((C,_)=>Qe.jsx("button",{onClick:()=>T(C),className:"menu-button",children:C.title},_)),E&&Qe.jsx("div",{className:"error-message",children:E})]})}):e?Qe.jsxs(Qe.Fragment,{children:[Qe.jsxs("header",{children:[Qe.jsx("button",{className:"menu-toggle",onClick:()=>m(!0),children:"Menu (esc)"}),Qe.jsx("div",{className:"progress",children:Qe.jsx("div",{className:"progress-bar",style:{width:`${(a+1)/c.length*100}%`}})})]}),Qe.jsx("main",{children:Qe.jsx("div",{className:"content",children:Qe.jsx(z3,{remarkPlugins:[W_],rehypePlugins:[cC],components:{img:({node:C,..._})=>Qe.jsx("img",{style:{maxWidth:"100%",height:"auto"},..._,alt:_.alt||""}),a:({node:C,..._})=>Qe.jsx("a",{target:"_blank",rel:"noopener noreferrer",..._})},children:c[a]||""})})}),Qe.jsxs("div",{className:"nav-buttons",children:[Qe.jsx("button",{onClick:()=>l(C=>Math.max(C-1,0)),className:"nav-button",children:"←"}),Qe.jsx("button",{onClick:()=>l(C=>Math.min(C+1,c.length-1)),className:"nav-button",children:"→"})]}),Qe.jsxs("div",{className:"slide-counter",children:[a+1," / ",c.length]})]}):Qe.jsx("div",{className:"empty-state",children:"Select a lecture to begin"})})};IT.createRoot(document.getElementById("root")).render(Qe.jsx(Vu.StrictMode,{children:Qe.jsx(pC,{})}));
+document your concept with sketches, diagrams, or whatever, and prepare a 5-min presentation for next week.`,pC=()=>{const[e,n]=Vu.useState(null),[a,l]=Vu.useState(0),[c,f]=Vu.useState([]),[o,m]=Vu.useState(!0),[E,p]=Vu.useState(null),b=[{title:"future aesthetics et week 1",content:oC},{title:"future architecture et week 2",content:fC},{title:"interaction design ii week 1",content:hC},{title:"interaction design ii week 2",content:dC},{title:"future scale et week 3",content:mC}],T=C=>{try{const _=C.content.split("---");f(_.map(R=>R.trim())),n(C.content),l(0),m(!1)}catch(_){console.error("Error loading lecture:",_),p(_.message),m(!0)}};return Vu.useEffect(()=>{const C=_=>{_.key==="ArrowRight"?l(R=>Math.min(R+1,c.length-1)):_.key==="ArrowLeft"?l(R=>Math.max(R-1,0)):_.key==="Escape"&&m(R=>!R)};return window.addEventListener("keydown",C),()=>window.removeEventListener("keydown",C)},[c.length]),Qe.jsx("div",{className:"app",children:o?Qe.jsx("div",{className:"menu",children:Qe.jsxs("div",{className:"menu-content",children:[Qe.jsx("h1",{children:"Lectures"}),b.map((C,_)=>Qe.jsx("button",{onClick:()=>T(C),className:"menu-button",children:C.title},_)),E&&Qe.jsx("div",{className:"error-message",children:E})]})}):e?Qe.jsxs(Qe.Fragment,{children:[Qe.jsxs("header",{children:[Qe.jsx("button",{className:"menu-toggle",onClick:()=>m(!0),children:"Menu (esc)"}),Qe.jsx("div",{className:"progress",children:Qe.jsx("div",{className:"progress-bar",style:{width:`${(a+1)/c.length*100}%`}})})]}),Qe.jsx("main",{children:Qe.jsx("div",{className:"content",children:Qe.jsx(z3,{remarkPlugins:[W_],rehypePlugins:[cC],components:{img:({node:C,..._})=>Qe.jsx("img",{style:{maxWidth:"100%",height:"auto"},..._,alt:_.alt||""}),a:({node:C,..._})=>Qe.jsx("a",{target:"_blank",rel:"noopener noreferrer",..._})},children:c[a]||""})})}),Qe.jsxs("div",{className:"nav-buttons",children:[Qe.jsx("button",{onClick:()=>l(C=>Math.max(C-1,0)),className:"nav-button",children:"←"}),Qe.jsx("button",{onClick:()=>l(C=>Math.min(C+1,c.length-1)),className:"nav-button",children:"→"})]}),Qe.jsxs("div",{className:"slide-counter",children:[a+1," / ",c.length]})]}):Qe.jsx("div",{className:"empty-state",children:"Select a lecture to begin"})})};IT.createRoot(document.getElementById("root")).render(Qe.jsx(Vu.StrictMode,{children:Qe.jsx(pC,{})}));

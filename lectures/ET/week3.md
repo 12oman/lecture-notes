@@ -1,4 +1,10 @@
 ---
+title: future scales—intergalactic, planetary, planetary, intergalactic
+date: 2024-03-02  
+course: emerging & future design technologies  
+---
+
+---
 title: dyson spheres & found logics 
 date: 2024-03-02  
 course: emerging & future design technologies  
@@ -28,9 +34,10 @@ we moved from imaginiative spaces to maps and territories, examining:
 * **conway's game of life** as a simple rule system generating complex emergent behaviors
 
 ---
-takeaways
-anything can work as a map of anything else. 
-the territory is the space of interaction between rules that you decide upon and worlded outcomes. 
+# takeaways
+* anything can work as a map of anything else. 
+* the territory is the space of interaction between rules that you decide upon 
+* and worlded outcomes. 
 
 ---
 cheat code
@@ -90,12 +97,20 @@ read "Intergalactic, Planetary, Planetary, Intergalactic : Found Logics in Sci-F
 [intergalactic](https://youtu.be/qORYO0atB6g?si=PR0Cmz8PDdUT7uwc)
 
 ---
+### 4. discussion (15min)
+examples
+* how is scale used to open up newness?
+* what kind of 'postmodernism' is at play?
+---
+
 ### 3. visit the Intergalatic track on WhoSampled (10 min)
 explore the 'intertextuality' of the song - how it samples and remixes other tracks
 
 ![whoeSampled](https://d2w9rnfcy7mm78.cloudfront.net/34874596/original_3409582c6b49fe28341fb63b41df9afe.png?1740695894?bc=0)
 
 [link](https://www.whosampled.com/Beastie-Boys/Intergalactic/)
+
+
 
 ---
 
@@ -124,15 +139,9 @@ Paul Nero	1968	Drums
 
 Notice how Intergalactic itself has been re-used in other peoples music (77 exapmmles)
 
-* this characteristic is a key part of postmodernism. 
-* music is a map of other music. 
-* design is a map of other design.
-
----
-### 4. discussion (15min)
-examples
-* how is scale used to open up newness?
-* what kind of 'postmodernism' is at play?
+this characteristic is a key part of postmodernism. 
+music is a map of other music. 
+design is a map of other design.
 
 ---
 ### 5. scale exploration (20 min)
@@ -146,7 +155,7 @@ check out scaleofuniverse.com to explore relative scales from quantum to cosmic
 * grab everyday objects/systems (toasters, bikes, whatever)
 * create speculative designs by:
   - putting them in weird contexts (space, underwater, inside the body)
-  - scaling them way up or down (using any design approach: design software, drawing, photography)
+  - scaling them way up or down
   - mashing their logic with other systems
 * share your found logic with everyone
 
@@ -164,11 +173,26 @@ check out scaleofuniverse.com to explore relative scales from quantum to cosmic
 
 ## discussion questions
 
-1. "how can we get from hand logics to claw logics?" - what does this question from the essay suggest about specialization vs generalization in tech development?
-2. how do frameworks like the kardashev scale help us imagine stuff beyond our current tech horizon?
+1. "how can we get from hand logics to claw logics?" - what does this question from the essay suggest about specialization vs generalization?
+2. how do frameworks like the kardashev scale help us imagine beyond our current horizon?
 3. how might a "planetary society" be different from our current one in terms of design practices and aesthetic values?
 4. what's the relationship between "art-school postmodernism" and technological innovation?
 5. think about the quote: "we are always looking for counter-logics" - how can designers and technologists create truly new systems rather than just iterations of existing ones?
+
+
+---
+
+## more to check out
+
+* **readings**: 
+  - "more is different" by philip warren anderson
+  - excerpts from larry niven's "ringworld"
+  - iain m. banks' "culture" novels
+
+* **visual references**:
+  - orbital megastructures in sci-fi
+  - nasa concept art for space habitats
+  - speculative engineering diagrams
 
 ---
 
@@ -188,19 +212,3 @@ create a speculative design concept for a type II civilization artifact - someth
 * how might it change social/cultural relationships?
 
 document your concept with sketches, diagrams, or whatever, and prepare a 5-min presentation for next week.
-
----
-
-## more stuff to check out
-
-* **readings**: 
-  - "more is different" by philip warren anderson
-  - excerpts from larry niven's "ringworld"
-  - iain m. banks' "culture" novels
-
-* **visual references**:
-  - orbital megastructures in sci-fi
-  - nasa concept art for space habitats
-  - speculative engineering diagrams
-
----
