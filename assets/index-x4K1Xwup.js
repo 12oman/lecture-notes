@@ -604,7 +604,7 @@ examples
 ### 3. visit the Intergalatic track on WhoSampled (10 min)
 explore the 'intertextuality' of the song - how it samples and remixes other tracks
 
-![whoeSampled](https://d2w9rnfcy7mm78.cloudfront.net/34874596/original_3409582c6b49fe28341fb63b41df9afe.png?1740695894?bc=0)
+![who](https://d2w9rnfcy7mm78.cloudfront.net/34874596/original_3409582c6b49fe28341fb63b41df9afe.png?1740695894?bc=0)
 
 [link](https://www.whosampled.com/Beastie-Boys/Intergalactic/)
 
