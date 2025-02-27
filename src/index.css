@@ -20,14 +20,14 @@ body {
   padding: 2rem;
 }
 
-/* Headers get bolder */
+/* Headers get bolder and maintain the same appearance */
 .content h1, 
 .content h2, 
-.content h3 {
+.content h3, 
+.content h4, 
+.content h5, 
+.content h6 {
   font-weight: 700;
-}
-
-.content h1 {
   font-size: 2.5rem;
   line-height: 1.2;
 }

@@ -44,10 +44,11 @@ in what ways are you always carrying a map?
 
 ### today: intergalactic, planetary, planetary, intergalactic
 
-key concepts
-found logics 
-scale
-when we talk about how anything can be a map of something else, we are invoking a design principle of found logics and the condition of postmodernism.
+* key concepts
+* found logics 
+* scale
+when we talk about how anything can be a map of something else, 
+we are invoking a design principle of found logics and the condition of postmodernism.
 
 this might make you quesion: can anything can be new?
 
@@ -89,19 +90,58 @@ read "Intergalactic, Planetary, Planetary, Intergalactic : Found Logics in Sci-F
 [intergalactic](https://youtu.be/qORYO0atB6g?si=PR0Cmz8PDdUT7uwc)
 
 ---
-### 3. discussion (15min)
+### 3. visit the Intergalatic track on WhoSampled (10 min)
+explore the 'intertextuality' of the song - how it samples and remixes other tracks
+
+![whoeSampled](https://d2w9rnfcy7mm78.cloudfront.net/34874596/original_3409582c6b49fe28341fb63b41df9afe.png?1740695894?bc=0)
+
+[link](https://www.whosampled.com/Beastie-Boys/Intergalactic/)
+
+---
+
+# listen to how the song is built from other songs
+
+Prelude in C# Minor, Les Baxter	1968	Multiple Elements
+The Jazz Crusaders's Love Is Blue (L'Amour Est Bleu)
+The Jazz Crusaders	1968, sampling the Bass
+The Stovall Sisters's Hang on in There	
+The Stovall Sisters	1971	Vocals / Lyrics
+Beastie Boys's The New Style	
+Beastie Boys	1986	Vocals / Lyrics
+Modest Mussorgsky's Night on Bald Mountain	
+Night on Bald Mountain
+Modest Mussorgsky	1867	Multiple Elements
+Port Authority's Port Authority Bus Blues	
+Port Authority Bus Blues
+Port Authority	1971	Drums
+Paul Nero's This Is Soul	
+This Is Soul
+Paul Nero	1968	Drums
+
+---
+
+# how does this change your understanding of the song?
+
+Notice how Intergalactic itself has been re-used in other peoples music (77 exapmmles)
+
+this characteristic is a key part of postmodernism. 
+music is a map of other music. 
+design is a map of other design.
+
+---
+### 4. discussion (15min)
 examples
 * how is scale used to open up newness?
 * what kind of 'postmodernism' is at play?
 
 ---
-### 3. scale exploration (20 min)
+### 5. scale exploration (20 min)
 check out scaleofuniverse.com to explore relative scales from quantum to cosmic
 * chat about: how does shifting perspective change how we see objects and systems?
 * connects to bianca hester's work: "only from the perspective of an observer situated upon the surface of the earth does day and night occur"
 
 ---
-### 2. found logic workshop (30 min)
+### 6. found logic workshop (30 min)
 * break into small groups
 * grab everyday objects/systems (toasters, bikes, whatever)
 * create speculative designs by:
@@ -111,7 +151,7 @@ check out scaleofuniverse.com to explore relative scales from quantum to cosmic
 * share your found logic with everyone
 
 ---
-### 3. dyson sphere design challenge (40 min)
+### 7. dyson sphere design challenge (40 min)
 * groups design their own megastructure concept
 * think about:
   - how to capture and distribute energy
@@ -125,19 +165,23 @@ check out scaleofuniverse.com to explore relative scales from quantum to cosmic
 ## discussion questions
 
 1. "how can we get from hand logics to claw logics?" - what does this question from the essay suggest about specialization vs generalization in tech development?
-
 2. how do frameworks like the kardashev scale help us imagine stuff beyond our current tech horizon?
-
 3. how might a "planetary society" be different from our current one in terms of design practices and aesthetic values?
-
 4. what's the relationship between "art-school postmodernism" and technological innovation?
-
 5. think about the quote: "we are always looking for counter-logics" - how can designers and technologists create truly new systems rather than just iterations of existing ones?
+
+---
+
+"it doesn't matter if what you're experiencing is an original sign, a copy or simulacra if these possibilities—denatured signs, attenuated copies, metaphoric or metonymic permutations, experiments in semioticity, or just bad rip-offs—are deployed as part of the sanctioned script."
+
+- from "Intergalactic, Planetary, Planetary, Intergalactic : 
+Found Logics in Sci-Fi and Games" by Roman Mitch
+
+---
 
 ## homework (for week 4)
 
 create a speculative design concept for a type II civilization artifact - something that would only be possible for a society that had harnessed the complete energy of its star. consider:
-
 * what problem does it solve or what opportunity does it create?
 * how does it function at the stellar scale?
 * what aesthetic qualities would reflect its purpose and context?
@@ -156,12 +200,3 @@ document your concept with sketches, diagrams, or whatever, and prepare a 5-min 
   - orbital megastructures in sci-fi
   - nasa concept art for space habitats
   - speculative engineering diagrams
-
----
-
-"it doesn't matter if what you're experiencing is an original sign, a copy or simulacra if these possibilities—denatured signs, attenuated copies, metaphoric or metonymic permutations, experiments in semioticity, or just bad rip-offs—are deployed as part of the sanctioned script."
-
-- from "Intergalactic, Planetary, Planetary, Intergalactic : 
-Found Logics in Sci-Fi and Games" by Roman Mitch
-
----
