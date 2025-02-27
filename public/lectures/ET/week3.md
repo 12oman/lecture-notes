@@ -154,7 +154,7 @@ check out scaleofuniverse.com to explore relative scales from quantum to cosmic
 * break into small groups
 * grab everyday objects/systems (toasters, bikes, whatever)
 * create speculative designs by:
-  - putting them in weird contexts (space, underwater, inside the body)
+  - putting them in weird contexts (space, underwater, out of place)
   - scaling them way up or down
   - mashing their logic with other systems
 * share your found logic with everyone
