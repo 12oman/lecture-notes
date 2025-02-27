@@ -6,6 +6,7 @@ import futureAestheticsLecture from '/lectures/ET/week1.md?raw'
 import futureArchitectureLecture from '/lectures/ET/week2.md?raw'
 import interactionDesignLecture from '/lectures/ID/week1.md?raw'
 import interactionDesignLecture2 from '/lectures/ID/week2.md?raw'
+import futureScaleLecture from '/lectures/ET/week3.md?raw'
 
 const App = () => {
   const [content, setContent] = useState(null);
@@ -16,11 +17,11 @@ const App = () => {
 
   const lectures = [
     { 
-      title: 'future aesthetics', 
+      title: 'future aesthetics et week 1', 
       content: futureAestheticsLecture
     },
     {
-      title: 'future architecture',
+      title: 'future architecture et week 2',
       content: futureArchitectureLecture
     }
     ,
@@ -32,6 +33,11 @@ const App = () => {
     {
       title: 'interaction design ii week 2',
       content: interactionDesignLecture2
+    }
+    ,
+    {
+      title: 'future scale et week 3',
+      content: futureScaleLecture
     }
 
   ];
