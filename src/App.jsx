@@ -61,7 +61,7 @@ const App = () => {
     // Create a new window for printing
     const printWindow = window.open('', '_blank');
     
-    // Create a styled document with brutalist/terminal aesthetics
+    // Create a styled document with two-column layout
     printWindow.document.write(`
       <!DOCTYPE html>
       <html>
@@ -72,165 +72,214 @@ const App = () => {
             
             body {
               font-family: 'Space Mono', monospace;
-              background-color: #111;
-              color: #0f0;
+              background-color: white;
+              color: black;
               padding: 30px;
-              max-width: 800px;
+              max-width: 1000px;
               margin: 0 auto;
-              line-height: 1.6;
-              font-size: 14px;
-            }
-            
-            @media print {
-              body {
-                background-color: #fff;
-                color: #000;
-              }
-              
-              h2, h3 {
-                color: #000;
-              }
-              
-              pre, code {
-                border-color: #000;
-              }
+              line-height: 1.5;
+              font-size: 12px;
             }
             
             h1 {
-              font-size: 24px;
-              border-bottom: 2px solid #0f0;
-              padding-bottom: 10px;
-              margin-top: 30px;
+              font-size: 20px;
+              border-bottom: 2px solid black;
+              padding-bottom: 8px;
+              margin-top: 24px;
               text-transform: uppercase;
               letter-spacing: 2px;
             }
             
             h2 {
-              font-size: 20px;
+              font-size: 18px;
               letter-spacing: 1px;
-              color: #0ff;
             }
             
             h3 {
-              font-size: 18px;
-              color: #f0f;
+              font-size: 16px;
             }
             
             code {
-              background: #222;
-              padding: 2px 5px;
+              background: #f0f0f0;
+              padding: 2px 4px;
               border-radius: 0;
               font-family: 'Space Mono', monospace;
-              border-left: 3px solid #0f0;
-              color: #0f0;
+              border-left: 2px solid #333;
+              font-size: 11px;
             }
             
             pre {
-              background: #222;
-              padding: 15px;
+              background: #f0f0f0;
+              padding: 10px;
               border-radius: 0;
-              border-left: 5px solid #0f0;
+              border-left: 4px solid #333;
               overflow-x: auto;
-              margin: 20px 0;
+              margin: 15px 0;
+              font-size: 11px;
+            }
+            
+            pre code {
+              border-left: none;
+              padding: 0;
             }
             
             img {
               max-width: 100%;
               height: auto;
-              margin: 15px 0;
-              border: 2px solid #0f0;
-              filter: grayscale(30%);
+              margin: 10px 0;
+              border: 1px solid #333;
             }
             
             blockquote {
-              border-left: 3px solid #0f0;
+              border-left: 3px solid #333;
               padding-left: 10px;
-              color: #0ff;
-              margin: 20px 0;
+              margin: 15px 0;
               font-style: italic;
             }
             
-            .container {
-              margin-bottom: 30px;
-              border: 1px solid #333;
-              padding: 20px;
-              position: relative;
-            }
-            
-            .slide-divider {
-              border: none;
-              border-top: 1px dashed #0f0;
-              margin: 30px 0;
-            }
-            
             .lecture-title {
-              font-size: 28px;
+              font-size: 24px;
               font-weight: bold;
               text-align: center;
-              margin-bottom: 40px;
-              padding: 20px;
-              border: 2px solid #0f0;
+              margin-bottom: 30px;
+              padding: 15px;
+              border: 2px solid black;
               text-transform: uppercase;
               letter-spacing: 3px;
             }
             
             ul, ol {
-              padding-left: 20px;
+              padding-left: 18px;
+              margin: 10px 0;
             }
             
             li {
-              margin-bottom: 5px;
+              margin-bottom: 4px;
             }
             
             li::marker {
-              color: #0f0;
-              content: "> ";
+              content: "- ";
             }
             
             a {
-              color: #ff0;
+              color: #333;
               text-decoration: none;
-              border-bottom: 1px dotted #ff0;
+              border-bottom: 1px dotted #333;
             }
             
-            .container::before {
-              content: "// slide " attr(data-slide);
+            /* Two column layout */
+            .two-column-layout {
+              column-count: 2;
+              column-gap: 30px;
+              column-rule: 1px solid #ddd;
+            }
+            
+            /* Container for each slide */
+            .slide-container {
+              break-inside: avoid;
+              page-break-inside: avoid;
+              margin-bottom: 20px;
+              padding: 15px;
+              border: 1px solid #333;
+              position: relative;
+            }
+            
+            .slide-container::before {
+              content: "Slide " attr(data-slide);
               position: absolute;
-              top: -10px;
+              top: -8px;
               right: 10px;
-              background: #111;
+              background: white;
               padding: 0 5px;
-              font-size: 12px;
-              color: #666;
+              font-size: 10px;
+              color: #333;
+            }
+            
+            /* For print media */
+            @media print {
+              body {
+                font-size: 10pt;
+              }
+              
+              .slide-container {
+                border-color: #888;
+              }
+              
+              h1, h2, h3 {
+                page-break-after: avoid;
+              }
+              
+              img, pre, blockquote {
+                page-break-inside: avoid;
+              }
+              
+              @page {
+                margin: 1.5cm;
+              }
             }
           </style>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/github.min.css">
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+          <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
         </head>
         <body>
           <div class="lecture-title">${activeLectureTitle || 'Lecture Notes'}</div>
+          <div class="two-column-layout">
     `);
 
     // Add all slides to the document in a continuous flow
     slides.forEach((slide, index) => {
-      printWindow.document.write(`<div class="container" data-slide="${index + 1}">`);
-      // Add the slide content
-      printWindow.document.write(slide);
+      // Skip empty slides or slides that only contain whitespace
+      if (!slide.trim()) return;
       
-      // Add a divider between slides (except for the last one)
-      if (index < slides.length - 1) {
-        printWindow.document.write(`<hr class="slide-divider" />`);
-      }
+      printWindow.document.write(`<div class="slide-container" data-slide="${index + 1}/${slides.length}">`);
+      
+      // Instead of writing the raw markdown, we'll create a div that will be processed by marked
+      printWindow.document.write(`<div class="markdown-content" id="slide-${index}">${
+        // Escape any HTML in the markdown to prevent issues
+        slide.replace(/</g, '&lt;').replace(/>/g, '&gt;')
+      }</div>`);
       
       printWindow.document.write(`</div>`);
     });
 
+    printWindow.document.write(`</div>`); // Close two-column-layout
+
+    // Add script to process the markdown after page load
+    printWindow.document.write(`
+      <script>
+        window.onload = function() {
+          // Configure marked to handle GitHub-flavored markdown
+          marked.setOptions({
+            breaks: true,
+            gfm: true,
+            highlight: function(code, language) {
+              const validLanguage = hljs.getLanguage(language) ? language : 'plaintext';
+              return hljs.highlight(code, { language: validLanguage }).value;
+            }
+          });
+          
+          // Process each slide's markdown content
+          document.querySelectorAll('.markdown-content').forEach(function(el) {
+            el.innerHTML = marked.parse(el.textContent);
+          });
+          
+          // Initialize code highlighting
+          document.querySelectorAll('pre code').forEach(function(block) {
+            hljs.highlightBlock(block);
+          });
+          
+          // Wait a moment for rendering to complete before printing
+          setTimeout(function() {
+            window.print();
+          }, 1000);
+        };
+      </script>
+    `);
+
     // Close the document
     printWindow.document.write('</body></html>');
     printWindow.document.close();
-    
-    // Wait for resources to load then print
-    printWindow.onload = function() {
-      printWindow.print();
-    };
   };
 
   useEffect(() => {
