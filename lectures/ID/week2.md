@@ -179,7 +179,7 @@ pick one artist and:
 3. document your process
 4. reflect on their influence
 
-remember: [last week's tips](/lectures/ID/week1) on documentation!
+remember: documentation!
 
 ---
 
