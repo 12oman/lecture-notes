@@ -7,6 +7,7 @@ import futureArchitectureLecture from '/lectures/ET/week2.md?raw'
 import interactionDesignLecture from '/lectures/ID/week1.md?raw'
 import interactionDesignLecture2 from '/lectures/ID/week2.md?raw'
 import futureScaleLecture from '/lectures/ET/week3.md?raw'
+import interactionDesignLecture3 from '/lectures/ID/week3.md?raw'
 
 const App = () => {
   const [content, setContent] = useState(null);
@@ -39,6 +40,10 @@ const App = () => {
     {
       title: 'future scale et week 3',
       content: futureScaleLecture
+    }
+    ,
+    {title: 'computational design id week 3',
+    content: interactionDesignLecture3
     }
   ];
 
