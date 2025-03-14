@@ -3,12 +3,6 @@ title: future scales—intergalactic, planetary, planetary, intergalactic
 date: 2024-03-02  
 course: emerging & future design technologies  
 ---
-title: dyson spheres & found logics 
-date: 2024-03-02  
-course: emerging & future design technologies  
-
----
-
 ### recap (1-2)
 ---
 week 1: future aesthetics
