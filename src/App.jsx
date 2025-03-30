@@ -9,6 +9,9 @@ import interactionDesignLecture2 from '/lectures/ID/week2.md?raw'
 import futureScaleLecture from '/lectures/ET/week3.md?raw'
 import interactionDesignLecture3 from '/lectures/ID/week3.md?raw'
 import interactionDesignLecture4 from '/lectures/ID/week4.md?raw'
+// import micro-graphics + deleuzean interpretation of virgil abloh
+import microGraphicsLecture from '/lectures/ET/week7.md?raw'
+
 
 const App = () => {
   const [content, setContent] = useState(null);
@@ -48,7 +51,14 @@ const App = () => {
     }
     ,
     {title: 'touchdesigner id week 4',
-    content: interactionDesignLecture4}
+    content: interactionDesignLecture4
+    }
+    ,
+    {title: 'micro graphics et week 7',
+    content: microGraphicsLecture
+    }
+    // Add more lectures here
+
   ];
 
   const loadLecture = (lecture) => {
