@@ -11,7 +11,7 @@ last week we explored the work of Casey REAS, JODI, Laurel Schwulst, Mindy Seu, 
 ---
 # recap 2
 
-we looked at how these artists and designers are using code as their craft, ai as their medium and the web as their exhibition space and the world as their browser. programming can work sas a practiceas a creative medium to explore emergent systems, deconstruct digital interfaces, rethink the browser, create generative art. today, we're going to dive into the world of TouchDesigner.
+we looked at how these artists and designers are using code as their craft, ai as their medium and the web as their exhibition space and the world as their browser. programming can work sas a practiceas a creative medium to explore emergent systems, deconstruct digital interfaces, rethink the browser, create generative art. next week, we're going to dive into the world of TouchDesigner.
 
 - but before that, let's do a quick check-in on our homework.
 
@@ -25,6 +25,8 @@ pick one media artist and:
 4. reflect on their influence
 
 remember: documentation! documentation! documentation!
+* could you screen record your process?
+* could you take screenshots?
 
 
 ---
@@ -52,7 +54,7 @@ translation: it's a tool that lets you make cool stuff that reacts to the world 
 ---
 # why touch?
 
-touch is a bit more visual than what we've done in p5js, and a bit more programmatic than processing. while it's nacent in the creative coding world, it was recently used to create the visuals for the 2024 olympics opening ceremony and the brand new openai presentation (somewhat overshadowed by k dot's shakespear-level performance).
+touch is a bit more visual than what we've done in `p5.js`, and a bit more programmatic than processing. while it's nacent in the creative coding world, it was recently used to create the visuals for the 2024 olympics opening ceremony and the brand new openai presentation (somewhat overshadowed by k dot's shakespear-level performance).
 
 ---
 # why touch? (cont.)
