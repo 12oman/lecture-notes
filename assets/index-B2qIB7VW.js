@@ -969,6 +969,9 @@ French philosopher whose concepts provide useful frameworks for understanding de
 
 
 ---
+![IMAGE: "10"](https://d2w9rnfcy7mm78.cloudfront.net/35630926/original_8b6c7ae4182ee4a5a962a2fc529f940b.png?1743369465?bc=0)
+
+---
 # virgil abloh's design philosophy
 
 ## "the 3% approach"
