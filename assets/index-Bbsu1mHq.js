@@ -936,7 +936,7 @@ course: emerging & future design technologies
 Gilles Deleuze (1925-1995)
 French philosopher whose concepts provide useful frameworks for understanding design evolution
 
-[IMAGE: Deleuze portrait or conceptual illustration]
+![deleuze teaching](https://d2w9rnfcy7mm78.cloudfront.net/35631029/original_2b9cbfb74c78560f86a4ccc63c67fd29.jpg?1743369829?bc=0)
 
 ---
 # key deleuzean concepts
@@ -945,8 +945,9 @@ French philosopher whose concepts provide useful frameworks for understanding de
 - Non-hierarchical, multi-directional connections
 - Any point can connect to any other point
 - No clear beginning or end
+- the internet art organisation rhizome.org takes its name from this concept
 
-[IMAGE: Visual representation of rhizome vs. tree structure]
+![rhizome](https://d2w9rnfcy7mm78.cloudfront.net/35631080/original_2c5f64dadd8324999637a0a9bd8c7097.gif?1743370080?bc=0)
 
 ---
 # key deleuzean concepts
@@ -956,7 +957,7 @@ French philosopher whose concepts provide useful frameworks for understanding de
 - Freeing objects from their established functions
 - Creating new possibilities through displacement
 
-[IMAGE: Example of deterritorialization in design]
+![L.H.O.O.Q. by Marcel Duchamp](https://d2w9rnfcy7mm78.cloudfront.net/35631353/original_a62e754ddb034340f247441f96beba5c.png?1743370733?bc=0)
 
 ---
 # key deleuzean concepts
@@ -966,7 +967,6 @@ French philosopher whose concepts provide useful frameworks for understanding de
 - Process rather than fixed state
 - Design as ongoing movement rather than end product
 
-[IMAGE: Visual representation of becoming/transformation]
 
 ---
 # virgil abloh's design philosophy
@@ -976,7 +976,6 @@ French philosopher whose concepts provide useful frameworks for understanding de
 - Find the minimal intervention needed to create new meaning
 - Question: "How much can we twist the normal?"
 
-[IMAGE: Example of Abloh's 3% modification]
 
 ---
 # virgil abloh's design language
@@ -986,7 +985,6 @@ French philosopher whose concepts provide useful frameworks for understanding de
 - Questions authenticity and originality
 - Turns objects into concepts
 
-[IMAGE: Off-White products with quotation marks]
 
 ---
 # abloh's micro-graphic system
@@ -997,14 +995,11 @@ French philosopher whose concepts provide useful frameworks for understanding de
 - Creating authentic inauthenticity
 - Typography as both functional and decorative element
 
-[IMAGE: Close-up of Off-White/Nike micro-graphics]
-
 ---
 # the ten nike collection
 
 "REVEALING" vs "GHOSTING"
 
-[IMAGE: The Ten collection overview]
 
 ---
 # "revealing"
@@ -1015,7 +1010,9 @@ French philosopher whose concepts provide useful frameworks for understanding de
 - X-ACTO blade as primary design tool
 - Making the invisible visible
 
-[IMAGE: Examples from "REVEALING" collection]
+---
+
+![IMAGE: "REVEALING" text](https://d2w9rnfcy7mm78.cloudfront.net/35630943/original_68f799295b5118808ce60a6f18a802b8.png?1743369515?bc=0)
 
 ---
 # "ghosting"
@@ -1025,8 +1022,10 @@ French philosopher whose concepts provide useful frameworks for understanding de
 - Ethereal material palette
 - Uncensored look at construction
 - Challenging original expression
+- also note the use of micro-graphics in the design
 
-[IMAGE: Examples from "GHOSTING" collection]
+---
+![INAGE: "GHOSTING" text](https://d2w9rnfcy7mm78.cloudfront.net/35630953/original_19ba9b7768397fdadc9293530bbce00a.png?1743369538?bc=0)
 
 ---
 # connecting to deleuze
@@ -1035,8 +1034,6 @@ French philosopher whose concepts provide useful frameworks for understanding de
 - Removing design elements from their context
 - Exposing hidden structures and connections
 - Creating new meaning through deconstruction
-
-[IMAGE: Side-by-side of original and Abloh-modified sneaker]
 
 ---
 # connecting to deleuze
