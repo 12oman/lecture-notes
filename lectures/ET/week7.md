@@ -44,7 +44,7 @@ course: emerging & future design technologies
 - Creates new languages from existing vocabularies
 - Embodies interdisciplinary approach
 
-[IMAGE: Portrait of Virgil Abloh]
+![IMAGE: Portrait of Virgil Abloh](https://d2w9rnfcy7mm78.cloudfront.net/35630914/original_110abbd8e25d5f0fe24eaf534acb7ab8.png?1743369421?bc=0)
 
 ---
 # introduction to deleuze
