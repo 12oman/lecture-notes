@@ -11,6 +11,7 @@ import interactionDesignLecture3 from '/lectures/ID/week3.md?raw'
 import interactionDesignLecture4 from '/lectures/ID/week4.md?raw'
 // import micro-graphics + deleuzean interpretation of virgil abloh
 import microGraphicsLecture from '/lectures/ET/week7.md?raw'
+import softFutureLecture from '/lectures/ET/week8.md?raw'
 
 
 const App = () => {
@@ -56,7 +57,11 @@ const App = () => {
     ,
     {title: 'micro graphics et week 7',
     content: microGraphicsLecture
+    },
+    {title: 'soft future et week 8',
+    content: softFutureLecture
     }
+
     // Add more lectures here
 
   ];
