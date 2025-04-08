@@ -132,7 +132,7 @@ Soft Technologies:
 - Invertebrate organisms as inspiration
 - Beyond anthropomorphic design
 
-[IMAGE: Examples of soft robotics]
+![IMAGE: Examples of soft robotics](https://d2w9rnfcy7mm78.cloudfront.net/35806416/original_dc084af9a0977ec6fb6c5cf6c37cd0fe.png?1743994392?bc=0)
 
 ---
 # Emerging Soft Technologies: Biohybrid Systems
@@ -144,7 +144,6 @@ Soft Technologies:
 - Xenobots: microscopic synthetic organisms from frog cells
 - Self-organization and self-replication
 
-[IMAGE: Examples of biohybrid systems]
 
 ---
 # Emerging Soft Technologies: Wetware Computing
@@ -156,7 +155,7 @@ Soft Technologies:
 - Energy efficiency and adaptability
 - Beyond algorithmic computation
 
-[IMAGE: Examples of wetware computing]
+![IMAGE: Neuron biocomputer. Source: New Atlas. Credit: Cortical Labs.](https://d2w9rnfcy7mm78.cloudfront.net/35806093/original_3bc182a2b4dcd075777da241a3472891.png?1743992058?bc=0)
 
 ---
 # Softness in Design Applications
