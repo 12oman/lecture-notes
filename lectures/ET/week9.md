@@ -57,4 +57,5 @@ It's a perfect example of how a material we think of as 'hard' can be made soft,
 ---
 # agency in indigenous world
 
-- 
+- power of acting
+- claude: 
