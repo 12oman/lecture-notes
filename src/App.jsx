@@ -13,6 +13,7 @@ const lectureImports = {
   microGraphicsLecture: '/lectures/ET/week7.md?raw',
   softFutureLecture: '/lectures/ET/week8.md?raw',
   interactionDesignLecture8: '/lectures/ID/week8.md?raw',
+  entagledAgencyETweek9: '/lectures/ET/week9.md?raw',
 };
 
 
@@ -35,6 +36,7 @@ const App = () => {
     { title: 'micro graphics et week 7', content: lectureImports.microGraphicsLecture },
     { title: 'soft future et week 8', content: lectureImports.softFutureLecture },
     { title: 'deployment and iteration id week 8', content: lectureImports.interactionDesignLecture8 },
+    { title: 'entangled agency et week 9', content: lectureImports.entagledAgencyETweek9 },
   ];
 
   const loadLecture = (lecture) => {
