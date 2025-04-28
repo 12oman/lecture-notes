@@ -2,17 +2,18 @@ import React, { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
-import futureAestheticsLecture from '/lectures/ET/week1.md?raw'
-import futureArchitectureLecture from '/lectures/ET/week2.md?raw'
-import interactionDesignLecture from '/lectures/ID/week1.md?raw'
-import interactionDesignLecture2 from '/lectures/ID/week2.md?raw'
-import futureScaleLecture from '/lectures/ET/week3.md?raw'
-import interactionDesignLecture3 from '/lectures/ID/week3.md?raw'
-import interactionDesignLecture4 from '/lectures/ID/week4.md?raw'
-// import micro-graphics + deleuzean interpretation of virgil abloh
-import microGraphicsLecture from '/lectures/ET/week7.md?raw'
-import softFutureLecture from '/lectures/ET/week8.md?raw'
-import interactionDesignLecture8 from '/lectures/ID/week8.md?raw'
+const lectureImports = {
+  futureAestheticsLecture: '/lectures/ET/week1.md?raw',
+  futureArchitectureLecture: '/lectures/ET/week2.md?raw',
+  interactionDesignLecture: '/lectures/ID/week1.md?raw',
+  interactionDesignLecture2: '/lectures/ID/week2.md?raw',
+  futureScaleLecture: '/lectures/ET/week3.md?raw',
+  interactionDesignLecture3: '/lectures/ID/week3.md?raw',
+  interactionDesignLecture4: '/lectures/ID/week4.md?raw',
+  microGraphicsLecture: '/lectures/ET/week7.md?raw',
+  softFutureLecture: '/lectures/ET/week8.md?raw',
+  interactionDesignLecture8: '/lectures/ID/week8.md?raw',
+};
 
 
 const App = () => {
@@ -24,50 +25,16 @@ const App = () => {
   const [activeLectureTitle, setActiveLectureTitle] = useState('');
 
   const lectures = [
-    { 
-      title: 'future aesthetics et week 1', 
-      content: futureAestheticsLecture
-    },
-    {
-      title: 'future architecture et week 2',
-      content: futureArchitectureLecture
-    }
-    ,
-    {
-      title: 'interaction design ii week 1',
-      content: interactionDesignLecture
-    }
-    ,
-    {
-      title: 'interaction design ii week 2',
-      content: interactionDesignLecture2
-    }
-    ,
-    {
-      title: 'future scale et week 3',
-      content: futureScaleLecture
-    }
-    ,
-    {title: 'computational design id week 3',
-    content: interactionDesignLecture3
-    }
-    ,
-    {title: 'touchdesigner id week 4',
-    content: interactionDesignLecture4
-    }
-    ,
-    {title: 'micro graphics et week 7',
-    content: microGraphicsLecture
-    },
-    {title: 'soft future et week 8',
-    content: softFutureLecture
-    },
-    {title: 'deployment and iteration id week 8',
-    content: interactionDesignLecture8
-    }
-
-    // Add more lectures here
-
+    { title: 'future aesthetics et week 1', content: lectureImports.futureAestheticsLecture },
+    { title: 'future architecture et week 2', content: lectureImports.futureArchitectureLecture },
+    { title: 'interaction design ii week 1', content: lectureImports.interactionDesignLecture },
+    { title: 'interaction design ii week 2', content: lectureImports.interactionDesignLecture2 },
+    { title: 'future scale et week 3', content: lectureImports.futureScaleLecture },
+    { title: 'computational design id week 3', content: lectureImports.interactionDesignLecture3 },
+    { title: 'touchdesigner id week 4', content: lectureImports.interactionDesignLecture4 },
+    { title: 'micro graphics et week 7', content: lectureImports.microGraphicsLecture },
+    { title: 'soft future et week 8', content: lectureImports.softFutureLecture },
+    { title: 'deployment and iteration id week 8', content: lectureImports.interactionDesignLecture8 },
   ];
 
   const loadLecture = (lecture) => {
