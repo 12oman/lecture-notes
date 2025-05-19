@@ -1745,7 +1745,7 @@ Roman Mitch | SODI DI7604 | 2025
 ---
 # The Futures Cone
 
-![IMAGE: Futures Cone](https://media.discordapp.net/attachments/799679964108693574/1058165026618351728/image.png)
+![IMAGE: Futures Cone](https://d2w9rnfcy7mm78.cloudfront.net/36789053/original_17fbfa5d51f4a8bb6246c22d748885f9.webp?1747614289?bc=0)
 
 - **Probable**: where we’re headed
 - **Plausible**: could happen, based on current knowledge
@@ -1817,7 +1817,7 @@ You’re being asked to **think harder**, **feel deeper**, and **design braver**
 - Dunne & Raby – *Speculative Everything*
 - Ahmed Ansari – *Decolonizing Design*
 - Critical Design FAQ: https://medium.com/criticaldesign
-- UX Planet article: *Speculative Design and Designed Realities* (linked on Canvas)
+- UX Planet article: *Speculative Design and Designed Realities* [link](https://uxplanet.org/speculative-design-and-designed-realities-ade514cc3426)
 
 ---
 
