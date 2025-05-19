@@ -13,6 +13,7 @@ import microGraphicsLecture from '/lectures/ET/week7.md?raw'
 import softFutureLecture from '/lectures/ET/week8.md?raw'
 import interactionDesignLecture8 from '/lectures/ID/week8.md?raw'
 import entagledAgencyETweek9 from '/lectures/ET/week9.md?raw'
+import agentsofChangeETweek13 from '/lectures/ET/week13.md?raw'
 
 const App = () => {
   const [content, setContent] = useState(null);
@@ -60,6 +61,9 @@ const App = () => {
     },
     {title: 'entangled agency et week 9',
      content: entagledAgencyETweek9
+    },
+    {title: 'agents of change et week 13',
+      content: agentsofChangeETweek13
     }
   ];
 
