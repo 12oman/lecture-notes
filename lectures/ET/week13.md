@@ -7,7 +7,7 @@ course: emerging & future design technologies
 # Agents of Change: Beyond Trend Forecasting
 Roman Mitch | SODI DI7604 | 2025
 
-![IMAGE: Speculative Futures](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Jf1oGBjYO04dnOZJkLOyQA.png)
+![IMAGE: Speculative Futures](https://d2w9rnfcy7mm78.cloudfront.net/36789053/original_17fbfa5d51f4a8bb6246c22d748885f9.webp?1747614289?bc=0)
 
 ---
 # Today's Agenda
@@ -37,6 +37,8 @@ Roman Mitch | SODI DI7604 | 2025
 - It's **not just cool renderings of gadgets**
 - It's **not a marketing pitch for future clients**
 
+![a b](https://d2w9rnfcy7mm78.cloudfront.net/36789070/original_877023160b0a959578bb68e845d12ed9.webp?1747614365?bc=0)
+
 ---
 # What It *Is*
 
@@ -46,7 +48,7 @@ Roman Mitch | SODI DI7604 | 2025
 - A way to ask: **what if... ?**
 - Not to predict, but to provoke
 
-![IMAGE: Dunne & Raby](https://miro.medium.com/v2/resize:fit:1000/format:webp/1*2H5Hk3BNsO3IsR1-FZHnmA.jpeg)
+![IMAGE: Dunne & Raby](https://d2w9rnfcy7mm78.cloudfront.net/36789171/original_9bdf0bfa5bc92234bb3577d6c8b44673.webp?1747614729?bc=0)
 
 ---
 # Designed Realities
