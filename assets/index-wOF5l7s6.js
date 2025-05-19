@@ -1780,7 +1780,46 @@ We need new metaphors. New critiques. **New logics**.
 
 Think of one lazy trope you've seen or used (e.g., brain chip = smarter human).  
 Now flip it:
-- What if the brain chip **makes us dumber**
+- What if the brain chip **makes us dumber**?
+- What if future tech is *boring*, *organic*, or *haunted*?
+
+**Don’t design the gadget. Design the system it ruins or replaces.**
+
+---
+# Your Assignment
+
+You're not designing *a* future.
+You're designing **a reality where something crucial has shifted**.
+
+Ask:
+- What values structure this world?
+- How is communication redefined?
+- How does design shape the emotional, political, or cultural landscape?
+
+The artifact is *a portal*, not the point.
+
+---
+# Questions + Expectations
+
+I will mark harshly if:
+- Your idea is uncritical, derivative, or safe
+- You don’t engage with real systems of power or culture
+- Your "future" is already here (but badly designed)
+
+You’re being asked to **think harder**, **feel deeper**, and **design braver**.
+
+---
+
+# Readings & Resources
+
+- Dunne & Raby – *Speculative Everything*
+- Ahmed Ansari – *Decolonizing Design*
+- Critical Design FAQ: https://medium.com/criticaldesign
+- UX Planet article: *Speculative Design and Designed Realities* (linked on Canvas)
+
+---
+
+# Thank You
 `,_C=()=>{const[e,n]=Ea.useState(null),[u,l]=Ea.useState(0),[o,f]=Ea.useState([]),[c,m]=Ea.useState(!0),[g,p]=Ea.useState(null),[T,b]=Ea.useState(""),C=[{title:"future aesthetics et week 1",content:cC},{title:"future architecture et week 2",content:fC},{title:"interaction design ii week 1",content:hC},{title:"interaction design ii week 2",content:dC},{title:"future scale et week 3",content:mC},{title:"computational design id week 3",content:pC},{title:"touchdesigner id week 4",content:gC},{title:"micro graphics et week 7",content:EC},{title:"soft future et week 8",content:bC},{title:"deployment and iteration id week 8",content:TC},{title:"entangled agency et week 9",content:yC},{title:"agents of change et week 13",content:AC}],_=B=>{try{const Y=B.content.split("---");f(Y.map(H=>H.trim())),n(B.content),l(0),m(!1),b(B.title)}catch(Y){console.error("Error loading lecture:",Y),p(Y.message),m(!0)}},v=()=>{const B=window.open("","_blank");B.document.write(`
       <!DOCTYPE html>
       <html>
