@@ -1681,7 +1681,107 @@ It's a perfect example of how a material we think of as 'hard' can be made soft,
 
 - power of acting
 - claude: 
-`,AC=()=>{const[e,n]=Ea.useState(null),[u,l]=Ea.useState(0),[o,f]=Ea.useState([]),[c,m]=Ea.useState(!0),[g,p]=Ea.useState(null),[T,b]=Ea.useState(""),C=[{title:"future aesthetics et week 1",content:cC},{title:"future architecture et week 2",content:fC},{title:"interaction design ii week 1",content:hC},{title:"interaction design ii week 2",content:dC},{title:"future scale et week 3",content:mC},{title:"computational design id week 3",content:pC},{title:"touchdesigner id week 4",content:gC},{title:"micro graphics et week 7",content:EC},{title:"soft future et week 8",content:bC},{title:"deployment and iteration id week 8",content:TC},{title:"entangled agency et week 9",content:yC}],_=B=>{try{const Y=B.content.split("---");f(Y.map(H=>H.trim())),n(B.content),l(0),m(!1),b(B.title)}catch(Y){console.error("Error loading lecture:",Y),p(Y.message),m(!0)}},v=()=>{const B=window.open("","_blank");B.document.write(`
+`,AC=`---
+title: Speculative Design & Designed Realities
+date: 2025-05-19  
+course: emerging & future design technologies  
+---
+
+# Agents of Change: Beyond Trend Forecasting
+Roman Mitch | SODI DI7604 | 2025
+
+![IMAGE: Speculative Futures](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Jf1oGBjYO04dnOZJkLOyQA.png)
+
+---
+# Today's Agenda
+
+1. Why this lecture? A course correction.
+2. What speculative design actually *is* (and isn’t)
+3. Dunne & Raby → Design as critique
+4. Designed realities: worldbuilding as method
+5. The spectrum: probable → plausible → possible → preferable
+6. What makes an idea *an agent of change*?
+7. Quick exercise: Break the cliché
+8. Questions and expectations
+
+---
+# Why This Lecture?
+
+> Too many of your current projects feel like *ads for a future product*, not *agents of change*.
+
+- Predicting a trend ≠ Speculating a world
+- Trend decks ≠ Conceptual design artifacts
+- We need imagination that’s disruptive, critical, and transformative
+
+---
+# What Speculative Design *Isn’t*
+
+- It's **not UX with a sci-fi skin**  
+- It's **not just cool renderings of gadgets**
+- It's **not a marketing pitch for future clients**
+
+---
+# What It *Is*
+
+> “Speculative design is a tool for imagining alternative presents and futures that challenge the status quo.” — Dunne & Raby
+
+- A thought experiment **in the form of design**
+- A way to ask: **what if... ?**
+- Not to predict, but to provoke
+
+![IMAGE: Dunne & Raby](https://miro.medium.com/v2/resize:fit:1000/format:webp/1*2H5Hk3BNsO3IsR1-FZHnmA.jpeg)
+
+---
+# Designed Realities
+
+> “Design doesn’t just reflect reality — it helps create it.”
+
+- Every design embeds assumptions about **values, behaviour, systems**
+- You are designing **a worldview**, not just an object
+- The “artifact” is a **proxy** for the world it belongs to
+
+---
+# The Futures Cone
+
+![IMAGE: Futures Cone](https://media.discordapp.net/attachments/799679964108693574/1058165026618351728/image.png)
+
+- **Probable**: where we’re headed
+- **Plausible**: could happen, based on current knowledge
+- **Possible**: stretches beyond current trends
+- **Preferable**: what we *want* to happen
+
+Your work should lean **into the tension** between these.
+
+---
+# Agents of Change
+
+Ask yourself:
+- What norm does this challenge?
+- What future does this resist or repair?
+- What system would have to shift for this to exist?
+- Who benefits? Who resists?
+
+If it doesn’t shift something — it’s decoration, not speculation.
+
+---
+# The Cliché Trap
+
+Too many student projects rely on:
+- AI does it all
+- Screens in weird places
+- Floating UIs
+- “It’s like Uber but for…”
+- Digital tattoos, always
+
+We need new metaphors. New critiques. **New logics**.
+
+---
+# Quick Exercise: Cliché Reversal
+
+Think of one lazy trope you've seen or used (e.g., brain chip = smarter human).  
+Now flip it:
+- What if the brain chip **makes us dumber**
+`,_C=()=>{const[e,n]=Ea.useState(null),[u,l]=Ea.useState(0),[o,f]=Ea.useState([]),[c,m]=Ea.useState(!0),[g,p]=Ea.useState(null),[T,b]=Ea.useState(""),C=[{title:"future aesthetics et week 1",content:cC},{title:"future architecture et week 2",content:fC},{title:"interaction design ii week 1",content:hC},{title:"interaction design ii week 2",content:dC},{title:"future scale et week 3",content:mC},{title:"computational design id week 3",content:pC},{title:"touchdesigner id week 4",content:gC},{title:"micro graphics et week 7",content:EC},{title:"soft future et week 8",content:bC},{title:"deployment and iteration id week 8",content:TC},{title:"entangled agency et week 9",content:yC},{title:"agents of change et week 13",content:AC}],_=B=>{try{const Y=B.content.split("---");f(Y.map(H=>H.trim())),n(B.content),l(0),m(!1),b(B.title)}catch(Y){console.error("Error loading lecture:",Y),p(Y.message),m(!0)}},v=()=>{const B=window.open("","_blank");B.document.write(`
       <!DOCTYPE html>
       <html>
         <head>
@@ -1873,4 +1973,4 @@ It's a perfect example of how a material we think of as 'hard' can be made soft,
           }, 1000);
         };
       <\/script>
-    `),B.document.write("</body></html>"),B.document.close()};return Ea.useEffect(()=>{const B=Y=>{Y.key==="ArrowRight"?l(H=>Math.min(H+1,o.length-1)):Y.key==="ArrowLeft"?l(H=>Math.max(H-1,0)):Y.key==="Escape"&&m(H=>!H)};return window.addEventListener("keydown",B),()=>window.removeEventListener("keydown",B)},[o.length]),qe.jsx("div",{className:"app",children:c?qe.jsx("div",{className:"menu",children:qe.jsxs("div",{className:"menu-content",children:[qe.jsx("h1",{children:"Lectures"}),C.map((B,Y)=>qe.jsx("button",{onClick:()=>_(B),className:"menu-button",children:B.title},Y)),g&&qe.jsx("div",{className:"error-message",children:g})]})}):e?qe.jsxs(qe.Fragment,{children:[qe.jsxs("header",{children:[qe.jsx("button",{className:"menu-toggle",onClick:()=>m(!0),children:"Menu (esc)"}),qe.jsx("button",{className:"pdf-button",onClick:v,children:"Print Notes"}),qe.jsx("div",{className:"progress",children:qe.jsx("div",{className:"progress-bar",style:{width:`${(u+1)/o.length*100}%`}})})]}),qe.jsx("main",{children:qe.jsx("div",{className:"content",children:qe.jsx(z3,{remarkPlugins:[W_],rehypePlugins:[oC],components:{img:({node:B,...Y})=>qe.jsx("img",{style:{maxWidth:"100%",height:"auto"},...Y,alt:Y.alt||""}),a:({node:B,...Y})=>qe.jsx("a",{target:"_blank",rel:"noopener noreferrer",...Y})},children:o[u]||""})})}),qe.jsxs("div",{className:"nav-buttons",children:[qe.jsx("button",{onClick:()=>l(B=>Math.max(B-1,0)),className:"nav-button",children:"←"}),qe.jsx("button",{onClick:()=>l(B=>Math.min(B+1,o.length-1)),className:"nav-button",children:"→"})]}),qe.jsxs("div",{className:"slide-counter",children:[u+1," / ",o.length]})]}):qe.jsx("div",{className:"empty-state",children:"Select a lecture to begin"})})};wb.createRoot(document.getElementById("root")).render(qe.jsx(Ea.StrictMode,{children:qe.jsx(AC,{})}));
+    `),B.document.write("</body></html>"),B.document.close()};return Ea.useEffect(()=>{const B=Y=>{Y.key==="ArrowRight"?l(H=>Math.min(H+1,o.length-1)):Y.key==="ArrowLeft"?l(H=>Math.max(H-1,0)):Y.key==="Escape"&&m(H=>!H)};return window.addEventListener("keydown",B),()=>window.removeEventListener("keydown",B)},[o.length]),qe.jsx("div",{className:"app",children:c?qe.jsx("div",{className:"menu",children:qe.jsxs("div",{className:"menu-content",children:[qe.jsx("h1",{children:"Lectures"}),C.map((B,Y)=>qe.jsx("button",{onClick:()=>_(B),className:"menu-button",children:B.title},Y)),g&&qe.jsx("div",{className:"error-message",children:g})]})}):e?qe.jsxs(qe.Fragment,{children:[qe.jsxs("header",{children:[qe.jsx("button",{className:"menu-toggle",onClick:()=>m(!0),children:"Menu (esc)"}),qe.jsx("button",{className:"pdf-button",onClick:v,children:"Print Notes"}),qe.jsx("div",{className:"progress",children:qe.jsx("div",{className:"progress-bar",style:{width:`${(u+1)/o.length*100}%`}})})]}),qe.jsx("main",{children:qe.jsx("div",{className:"content",children:qe.jsx(z3,{remarkPlugins:[W_],rehypePlugins:[oC],components:{img:({node:B,...Y})=>qe.jsx("img",{style:{maxWidth:"100%",height:"auto"},...Y,alt:Y.alt||""}),a:({node:B,...Y})=>qe.jsx("a",{target:"_blank",rel:"noopener noreferrer",...Y})},children:o[u]||""})})}),qe.jsxs("div",{className:"nav-buttons",children:[qe.jsx("button",{onClick:()=>l(B=>Math.max(B-1,0)),className:"nav-button",children:"←"}),qe.jsx("button",{onClick:()=>l(B=>Math.min(B+1,o.length-1)),className:"nav-button",children:"→"})]}),qe.jsxs("div",{className:"slide-counter",children:[u+1," / ",o.length]})]}):qe.jsx("div",{className:"empty-state",children:"Select a lecture to begin"})})};wb.createRoot(document.getElementById("root")).render(qe.jsx(Ea.StrictMode,{children:qe.jsx(_C,{})}));
